@@ -250,7 +250,7 @@ select {
 @media (max-width:1920px){
   
   .container {
-    margin: 360px 0px 90px 620px;
+    margin: 360px 0px 90px 580px;
     display: flex;
     justify-content: center;
     align-items: center;
