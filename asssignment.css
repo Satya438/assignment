@@ -232,3 +232,33 @@ select {
 .checkbox:checked + .custom-radio {
   border: 2px solid green;
 }
+@media (max-width:1440px){
+  
+  .container {
+    margin: 360px 0px 90px 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 340.734px;
+    height: 74.112px;
+    background-color: #fff;
+    border-radius: 3.615px;
+  }
+}
+@media (max-width:1920px){
+  
+  .container {
+    margin: 360px 0px 90px 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 340.734px;
+    height: 74.112px;
+    background-color: #fff;
+    border-radius: 3.615px;
+  }
+}
